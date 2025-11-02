@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #0f172a;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background: #1e293b;
+    padding: 20px;
+    text-align: center;
+}
+header h1 {
+    margin: 0;
+    font-size: 26px;
+}
+header p {
+    color: #cbd5e1;
+    font-size: 14px;
+}
+.container {
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+}
+.section-title {
+    font-size: 20px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+}
+.about, .projects, .contact {
+    background-color: #1e293b;
+    padding: 20px;
+    border-radius: 6px;
+    margin-bottom: 25px;
+}
+.project-box {
+    background-color: #334155;
+    padding: 15px;
+    margin-bottom: 12px;
+    border-radius: 6px;
+}
